@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\Contests\\cf 745\\test.cpp","tests":[{"id":1632995526228,"input":"4\n1\n2\n9\n91234","output":"1\n12\n830455698\n890287984"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\Contests\\cf 745\\test.cpp","group":"local","local":true}

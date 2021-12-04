@@ -1,0 +1,1 @@
+{"name":"Local: int","url":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\practice\\int.cpp","tests":[{"id":1628928504064,"input":"2\nabceda bdecbo 1\nfinger ginger 0","output":"3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\practice\\int.cpp","group":"local","local":true}

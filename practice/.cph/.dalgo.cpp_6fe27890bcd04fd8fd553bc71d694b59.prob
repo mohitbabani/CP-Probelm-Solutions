@@ -1,0 +1,1 @@
+{"name":"Local: dalgo","url":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\practice\\dalgo.cpp","tests":[{"id":1628702877485,"input":"4 6 2\n2 0\n0 2\n0 1\n1 2\n2 3\n3 3","output":"2 0 3 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\practice\\dalgo.cpp","group":"local","local":true}

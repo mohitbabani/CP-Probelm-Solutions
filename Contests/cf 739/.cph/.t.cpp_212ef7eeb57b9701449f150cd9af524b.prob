@@ -1,0 +1,1 @@
+{"name":"Local: t","url":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\cf 739\\t.cpp","tests":[{"id":1629392234972,"input":"4\n1 1\n221 2\n177890 2\n998244353 1","output":""},{"id":1629395088773,"input":"1\n1258125845454 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Mohit Babani\\Desktop\\cpp\\cf 739\\t.cpp","group":"local","local":true}
